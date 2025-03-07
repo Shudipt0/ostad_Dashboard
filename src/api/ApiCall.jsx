@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BaseURL = 'http://inertia-pos.manirul.xyz/api';
+const BaseURL = 'https://inertia-pos.manirul.xyz/api';
 
 
 // bank cards
